@@ -1,0 +1,1 @@
+# Dell-Latitude-E7240-BigSur-OpenCore-with-IntelWiFi
