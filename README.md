@@ -1,6 +1,6 @@
 # Dell-Latitude-E7240-BigSur-OpenCore-with-IntelWiFi
 
-This Repo includes an fully functional OpenCore install for MacOS BigSur on a Dell Latitude E7240 with IntelWiFi Module.
+This Repo includes an fully functional (except the HDMI out) OpenCore install for MacOS BigSur on a Dell Latitude E7240 with IntelWiFi Module.
 Please use https://github.com/corpnewt/GenSMBIOS to generate a new System ID / SMBIOS / Serial in the plist to make your System unique!
 
 Please make yourself familiar with OpenCore (https://github.com/acidanthera/OpenCorePkg).
